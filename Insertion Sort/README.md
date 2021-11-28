@@ -8,10 +8,12 @@ Yukarı verilen dizinin insertion sort türüne göre aşamalarını yazınız.
 
 ### 
 ```  
+    [22,27,16,2,18,6] 
     [2,27,16,22,18,6]
     [2,6,16,22,18,27]
     [2,6,16,18,22,27] 
 ```
+
 
 Big-O gösterimini yazınız.
 ### 
@@ -22,9 +24,9 @@ Big-O gösterimini yazınız.
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 ### 
 ```
-    worst case:
-    best case:
-    average case:
+    worst case: n
+    best case: n^2
+    average case: n^2
 ```
 
 
@@ -32,7 +34,7 @@ Time Complexity: Average case: Aradığımız sayının ortada olması,Worst cas
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 ### 
 ```
-    18->
+    18-> average case
 ```
 
 
@@ -45,7 +47,6 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
         [2,3,4,5,7,9,8,15,6]
         [2,3,4,5,6,9,8,15,7]
 ```
-
 
 
     
